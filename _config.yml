@@ -1,5 +1,5 @@
-remote_theme: pages-themes/time-machine@0.2.0
+remote_theme: pages-themes/time-machine
 plugins:
 - jekyll-remote-theme
-title: Aleesha muslim
-description: BS Computer Science student currently in 4th semester, passionate about learning programming and building creative projects.
+title: Aleesha Muslim
+description: BS Computer Science student currently in 4th semester, passionate about coding, projects, and Azure cloud.
