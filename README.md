@@ -12,7 +12,7 @@ BS Computer Science student (4th semester) at Fatima Jinnah Women University, pa
 - Phone: 0340 5155698  
 - Email: FA24B1-CS-064@FJWU.EDU.PK 
 - Location: Gujar Khan  Rawalpindi 
-- Portfolio: (Add your GitHub Pages link here once ready)  
+- Portfolio:https://fa24b1-cs-064-a11y.github.io/Aleesha.github.io/  
 
 ---
 
@@ -33,10 +33,6 @@ BS Computer Science student (4th semester) at Fatima Jinnah Women University, pa
 
 ---
 
-## 📑 Reference
-Available upon request  
-
----
 
 ## 💼 Projects & Experience
 - **Azure Virtual Machine Deployment**  
