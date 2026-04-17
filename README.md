@@ -33,7 +33,6 @@ BS Computer Science student (4th semester) at Fatima Jinnah Women University, pa
 
 ---
 
-
 ## 💼 Projects & Experience
 - **Azure Virtual Machine Deployment**  
   Created and managed virtual machines on Microsoft Azure for academic and personal projects.  
